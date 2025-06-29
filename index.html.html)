@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Understanding Your Digital Footprint</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to bottom right, #e0f7fa, #fce4ec);
+      margin: 0;
+      padding: 0;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(to right, #6a1b9a, #8e24aa);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 3em;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    }
+
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+      font-style: italic;
+    }
+
+    .content {
+      padding: 30px;
+      max-width: 1000px;
+      margin: auto;
+      background: white;
+      border-radius: 15px;
+      box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+      margin-top: -20px;
+    }
+
+    h2 {
+      color: #6a1b9a;
+      border-bottom: 2px solid #f06292;
+      padding-bottom: 5px;
+    }
+
+    img {
+      width: 100%;
+      max-width: 500px;
+      border-radius: 15px;
+      margin: 20px 0;
+      display: block;
+    }
+
+    iframe {
+      width: 100%;
+      height: 350px;
+      border: none;
+      margin-top: 20px;
+      border-radius: 10px;
+    }
+
+    pre {
+      background-color: #f3e5f5;
+      padding: 15px;
+      font-family: 'Courier New', monospace;
+      border-left: 5px solid #ab47bc;
+      overflow-x: auto;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+
+    a.button {
+      display: inline-block;
+      padding: 12px 25px;
+      background-color: #ec407a;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      margin-top: 25px;
+      transition: background-color 0.3s ease;
+    }
+
+    a.button:hover {
+      background-color: #d81b60;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #f8bbd0;
+      font-size: 1em;
+      margin-top: 40px;
+      border-top: 3px dashed #ec407a;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Understanding Your Digital Footprint</h1>
+    <p>Be smart. Be safe. Be secure. Leave no unwanted trace online.</p>
+  </header>
+
+  <div class="content">
+    <h2>What is a Digital Footprint?</h2>
+    <p>
+      A digital footprint is the trail of data you leave behind when you use the internet.
+      This includes your social media activity, emails, browsing history, app usage, and even deleted content.
+    </p>
+    <img src="https://www.cyber.gov.au/sites/default/files/styles/square_large/public/2020-07/digital-footprint.jpg" alt="Digital Footprint">
+
+    <h2>Why It Matters</h2>
+    <p>
+      Your digital footprint can shape how others see you — including schools, employers, and even cybercriminals.
+      Once something is online, it's often there forever. Be cautious, thoughtful, and proactive.
+    </p>
+
+    <h2>Tips for Safe Internet Use</h2>
+    <pre>
+  ✅ Use strong, unique passwords for every account
+  🔒 Enable two-factor authentication
+  🚫 Avoid clicking suspicious links or ads
+  🛡️ Use reliable antivirus software
+  🤫 Keep your private info truly private
+  🧠 Think before you post or comment
+    </pre>
+
+    <h2>Watch & Learn</h2>
+    <iframe src="https://www.youtube.com/embed/6N0MNqeCzHE" 
+            title="YouTube video on digital safety" allowfullscreen></iframe>
+
+    <p>
+      Need help or want to report cybercrime? Visit the official portal below:
+      <br>
+      <a class="button" href="https://www.cybercrime.gov.in/" target="_blank">Go to cybercrime.gov.in</a>
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 Digital Safety Awareness | Crafted with care for young netizens 🌐
+  </footer>
+
+</body>
+</html>
